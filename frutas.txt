@@ -13,3 +13,8 @@ kiwi
 abacate
 melancia
 graviola
+banana
+laranja
+maracujá
+melão
+pera
