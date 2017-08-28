@@ -3,3 +3,8 @@ melancia
 mamão
 pinha
 abio
+morango
+amora
+cereja
+uva
+maçã
