@@ -8,3 +8,8 @@ amora
 cereja
 uva
 maçã
+limão
+kiwi
+abacate
+melancia
+graviola
